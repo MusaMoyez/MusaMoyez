@@ -1,0 +1,10 @@
+<? php
+$age = 26;
+$fname = "moses";
+&lname = "wekesa";
+
+if($fname && $lname == true){
+echo "my name is: " +$fname +" "+"$lname"+" "+ "and i am"+ $age;
+
+}
+?>
